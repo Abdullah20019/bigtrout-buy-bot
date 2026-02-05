@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Environment variables (IMPORTANT - keeps your keys secret!)
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images (optional - uncomment if you don't want to upload image)
+# *.jpg
+# *.png
+
+# Logs
+*.log
+
+# Test files
+test_image.py
